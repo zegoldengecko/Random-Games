@@ -1,0 +1,18 @@
+﻿  pacmen.cpp
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(94,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(96,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(120,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(122,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(124,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(130,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(131,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(133,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(137,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(138,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(140,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(144,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(145,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\pacmen\pacmen.cpp(148,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  pacmen.vcxproj -> C:\Users\Alex\OneDrive\Documents\C++ Projects\pacmen\x64\Debug\pacmen.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
